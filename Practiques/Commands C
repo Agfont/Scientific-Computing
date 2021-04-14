@@ -1,0 +1,4 @@
+gcc -c arxiu.c -ansi -pedantic -O -Wall
+gcc arxiu1.o arxiu2.o ... -o programa.exe -lm
+./programa.exe
+./programa.exe > nomfitxer.res
